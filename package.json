@@ -15,5 +15,8 @@
     "serverless-offline": "^6.1.5",
     "underscore": "^1.10.2",
     "uuid": "^8.0.0"
+  },
+  "devDependencies": {
+    "serverless-domain-manager": "^4.0.1"
   }
 }
